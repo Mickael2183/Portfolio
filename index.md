@@ -10,3 +10,7 @@ Mon portfolio pour l'épreuve E5
                             
         
 Contenu de "index.md"
+ title: Portfolio - Epreuve E5
+        description: Mon parcours de professionnalisation
+        theme: jekyll-theme-dinky
+                                    
