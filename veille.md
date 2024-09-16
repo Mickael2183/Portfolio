@@ -8,3 +8,7 @@ Ici nous parlerons de la veille technologique.
 [Accueil du site](.)
                             
  Contenu de "Veille.md"
+title: Portfolio - Epreuve E5
+description: Mon parcours de professionnalisation
+theme: jekyll-theme-dinky
+                                    
